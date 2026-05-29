@@ -25,8 +25,6 @@ A modern, responsive personal portfolio built with **React**, **TypeScript**, an
 | Deployment | GitHub Pages + GitHub Actions       |
 | Linting    | ESLint (if configured)              |
 
-## 📸 Screenshot
-
 <!-- Take a screenshot of your website and place it in the repository, for example inside an assets folder -->
 
 ## 🚀 Getting Started (Run Locally)
