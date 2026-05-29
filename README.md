@@ -29,8 +29,6 @@ A modern, responsive personal portfolio built with **React**, **TypeScript**, an
 
 <!-- Take a screenshot of your website and place it in the repository, for example inside an assets folder -->
 
-![Portfolio Screenshot](assets/Contact-Screenshot.png)
-
 ## 🚀 Getting Started (Run Locally)
 
 ```bash
