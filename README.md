@@ -17,15 +17,19 @@ A modern, responsive personal portfolio built with **React**, **TypeScript**, an
 
 ## 🛠️ Tech Stack
 
-| Category   | Technology                          |
-| ---------- | ----------------------------------- |
-| Frontend   | React 18, TypeScript                |
-| Build Tool | Vite                                |
-| Styling    | Tailwind CSS / CSS Modules (adjust) |
-| Deployment | GitHub Pages + GitHub Actions       |
-| Linting    | ESLint (if configured)              |
+| Category   | Technology                    |
+| ---------- | ----------------------------- |
+| Frontend   | React 18, TypeScript          |
+| Build Tool | Vite                          |
+| Styling    | Tailwind CSS                  |
+| Deployment | GitHub Pages + GitHub Actions |
+| Linting    | ESLint (if configured)        |
+
+## 📸 Screenshot
 
 <!-- Take a screenshot of your website and place it in the repository, for example inside an assets folder -->
+
+![Portfolio Screenshot](assets/Screenshot.png)
 
 ## 🚀 Getting Started (Run Locally)
 
