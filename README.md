@@ -35,7 +35,7 @@ A modern, responsive personal portfolio built with **React**, **TypeScript**, an
 
 ```bash
 # Clone the repository
-git clone https://github.com/fawadperzad/fawad-perzad-portfolio.git
+git clone [https://github.com/...](https://github.com/fawadperzad/fawad-perzad-portfolio.git)
 
 # Navigate into the project
 cd fawad-perzad-portfolio
