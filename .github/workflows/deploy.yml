@@ -2,8 +2,8 @@ name: Deploy to GitHub Pages
 
 on:
   push:
-    branches: [main] # هر بار که روی main push کنید، اجرا می‌شود
-  workflow_dispatch: # امکان اجرای دستی از تب Actions
+    branches: [main] # Runs on every push to the main branch
+  workflow_dispatch: # Allows manual run from the Actions tab
 
 permissions:
   contents: read
@@ -24,7 +24,7 @@ jobs:
       - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
-          node-version: 18 # یا نسخه‌ای که پروژه شما نیاز دارد
+          node-version: 18 # Use the Node version your project requires
           cache: "npm"
 
       - name: Install dependencies
@@ -39,7 +39,7 @@ jobs:
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: ./dist # پوشه خروجی Vite
+          path: ./dist # Vite output folder
 
   deploy:
     needs: build
